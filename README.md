@@ -1,5 +1,5 @@
 # Ping Pong Game 🏓
-![pingpong-game](images\pingpong.png)
+![pingpong-game](images/pingpong.png)
 
 A simple Ping Pong game built using Python Turtle graphics.
 
